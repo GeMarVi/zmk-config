@@ -39,6 +39,6 @@
 };
 
 &led_strip {
-    chain-length = <27>; // LEDs para la mitad derecha
+    chain-length = <10>; // LEDs para la mitad derecha
 };
 
